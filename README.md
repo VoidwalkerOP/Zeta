@@ -1,2 +1,2 @@
-# ModStore
+# Zeta
 Freedom to download!
